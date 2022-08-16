@@ -1,5 +1,7 @@
 # Redes 2
 
+    sudo phython3 sniffer.py
+    
 ## Sniffers
 <p>
  Ultilizados para monitorar o trafico de internet podendo interceptar todos os pacotes que passam por ela
